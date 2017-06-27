@@ -2,11 +2,11 @@ Source: revolutionist76
 Section: misc
 Priority: extra
 Maintainer: kyler Chin <kylerschin@gmail.com>
-Build-Depends: debhelper (>= 8.0.0), perl
+Build-Depends: debhelper (>= 8.0.0), perl, git
 Standards-Version: 3.9.2
 Homepage: https://system76.com
 
-Package: hello-world
+Package: revolutionist76
 Architecture: all
 Depends: ${misc:Depends}
 Description: This is a dummy package with a hello world echo script
