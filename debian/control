@@ -1,0 +1,17 @@
+Source: revolutionist76
+Section: misc
+Priority: extra
+Maintainer: kyler Chin <kylerschin@gmail.com>
+Build-Depends: debhelper (>= 8.0.0), perl
+Standards-Version: 3.9.2
+Homepage: https://system76.com
+
+Package: hello-world
+Architecture: all
+Depends: ${misc:Depends}
+Description: This is a dummy package with a hello world echo script
+ This is the long description...
+ This is the long description...
+ This is the long description...
+ This is the long description...
+ This is the long description...
